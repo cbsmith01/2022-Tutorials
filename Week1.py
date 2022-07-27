@@ -6,3 +6,4 @@ Created on Wed Jul 27 13:05:18 2022
 @author: cameronsmith
 """
 print("hello world")
+print("yeah boi")
